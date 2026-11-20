@@ -1,0 +1,5 @@
+Employees can claim approved business travel expenses.
+
+Travel expenses must be submitted within 30 days of completing the trip.
+
+International travel requires approval from the regional manager before booking.
